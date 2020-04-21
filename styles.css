@@ -1,0 +1,201 @@
+.bgblack {
+	background-color: black;
+}
+
+
+.logo {
+	float: left;
+}
+
+.logo1 {
+	width: 50%;
+	float: left;
+}
+
+.GroovyFoxCenter {
+	text-align: center;
+	color: #D4AF37;
+	padding: 50px 0px 0px 0px;
+	font-family: Ariel;
+	font-size: 70px;
+}
+
+.bannerpic {
+	margin: 0% 15% 0% 20%;
+}
+
+.fashiontip {
+	color: white;
+	font-family: Ariel;
+	font-size: 40px;
+	float: left;
+}
+
+.middletext1 {
+	text-align: center;
+	font-family: Ariel;
+	font-size: 30px;
+	color: #D4AF37;
+	margin-right: 150px;
+}
+
+.picsdiv {
+	background-color: gray;
+	width: 100%
+}
+
+.kid {
+	width: 25%;
+}
+
+.female {
+	width: 25%;
+}
+
+.male {
+	width: 24%;
+	height: 270px;
+}
+
+.housewife {
+	width: 25%;
+}
+
+.watermark {
+	width: 100%;
+}
+
+.nkid {
+	font-size: 70px;
+	padding-right: 30px;
+	margin: 10px 0px 0px 0px;
+	color: #D4AF37;
+	font-family: Ariel;
+	float: left;
+	text-align: left;
+}
+
+.nfemale {
+	font-size: 70px;
+	padding-right: 30px;
+	margin: 10px 0px 0px 190px;
+	color: #D4AF37;
+	font-family: Ariel;
+	float: left;
+}
+
+.nmale {
+	font-size: 70px;
+	padding-right: 30px;
+	margin: 10px 0px 0px 90px;
+	color: #D4AF37;
+	font-family: Ariel;
+	float: left;
+}
+
+.nhousewife {
+	font-size: 70px;
+	padding-right: 30px;
+	margin: 10px 0px 0px 130px;
+	color: #D4AF37;
+	float: left;
+	font-family: Ariel;
+	text-align: right;
+}
+
+.bottomtext {
+	width: 100%;
+}
+
+.bottomtext1 {
+	width: 65%;
+	float: left;
+	font-family: Ariel;
+}
+
+.bottomtext2 {
+	width: 35%;
+	float: left;
+	font-family: Ariel;
+}
+
+.beamodel {
+	color: #D4AF37;
+	margin-top: 60px;
+	font-family: Ariel;
+	font-size: 24px;
+	float: left;
+}
+
+.middletext2 {
+	text-align: center;
+	font-family: Ariel;
+	font-size: 20px;
+	float: left;
+	color: white;
+	margin: 55px 0px 0px 50px;
+}
+
+.freeunder {
+	color: #D4AF37;
+	font-size: 60px;
+	float: left;
+	margin-bottom: 20px;
+	font-family: Ariel;
+	text-decoration: underline;
+}
+
+.tips {
+	color: #D4AF37;
+	font-size: 40px;
+	float: left;
+	margin-top: 1px;
+	font-family: Ariel;
+}
+
+.you {
+	width: 65%;
+	margin-top: -590px;
+}
+
+hr {
+	margin-top: -250px;
+}
+
+.socialpic {
+	text-align: center;
+	margin-top: 60px;
+	margin-left: -100px;
+}
+
+.socialtext {
+	color: white;
+	font-family: Ariel;
+	text-align: center;
+	float: right;
+	font-size: 30px;
+	margin-top: -80px;
+	margin-right: 400px;
+}
+
+.joinus {
+	color: #D4AF37;
+	font-family: Ariel;
+	text-align: center;
+	font-size: 30px;
+	margin-left: -420px;
+}
+
+.tele {
+	float: right;
+	margin-right: 600px;
+	margin-top: -100px;
+}
+
+.mob {
+	color: #D4AF37;
+	font-size: 30px;
+	font-family: Ariel;
+	margin-left: 730px;
+	margin-top: -87px;
+}
